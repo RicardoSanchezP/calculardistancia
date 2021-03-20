@@ -1,0 +1,4 @@
+LEER CUATRO NÚMEROS (X1, Y1), (X2, Y2).
+APLICAR LA FÓRMULA DE LA DISTANCIA.
+
+Haga el codigo, no sea flojo
